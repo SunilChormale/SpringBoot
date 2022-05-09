@@ -1,0 +1,39 @@
+
+#####
+SpringBoot Basics
+#####
+
+Very first step into starting the springboot project is to add the 
+
+spring-boot-starter-parent project into your's project pom.xml file.
+
+<parent>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-parent</artifactId>
+	<version>2.6.7</version>
+	<relativePath/> <!-- lookup parent from repository -->
+</parent>
+
+This is the version 2.6.7 of the same add this code to the pom.xml file
+
+After that you can add this two dependecy to the project i.e
+
+<dependency>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter</artifactId>
+</dependency>
+
+Adding this dependency will only start the application but wont start the tomcat embedded server 
+to start the embedded tomcat server you need to add the following dependency
+
+<dependency>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-web</artifactId>
+</dependency>
+This will boot up the tomcat server
+
+<dependency>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-test</artifactId>
+	<scope>test</scope>
+</dependency>

@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd1aeb59-d60e-4b6b-b672-61af9e8103cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Leaning files/Basics.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/sunil/basics/Basics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sunil/basics/Basics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sunil/basics/Basics.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sunil/basics/Basics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sunil/basics/configuration/MyBeanConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sunil/basics/configuration/MyBeanConfiguration.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
